@@ -175,6 +175,7 @@ function App() {
           ))}
         </div>
       </section>
+      {/* certificates section */}
       <section className="certificates-section" id="certificates">
         <h2 className="certificates-title">Certificates</h2>
         <div className="certificates-list">
