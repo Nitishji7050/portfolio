@@ -1,5 +1,5 @@
 import './App.css';
-import resumeImg from "./assets/resume.jpg";
+import resumeImg from "./assets/resume.jpeg";
 import StarsBackground from "./components/StarsBackground";
 import musicAppImg from './assets/musicApp.png';
 import videoCallingImg from './assets/videoCalling.png';
